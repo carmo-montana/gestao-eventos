@@ -9,7 +9,7 @@
 
 **Eventos**: cada evento tem um `nome`, `data`, `local`, `descrição` e `capacidade` de `participantes`.
 - **Relacionamento**: Um evento pode ter vários participantes.
-- 
+  
 **CRUD de Usuários**:
 
 **Usuários**: os usuários podem se cadastrar e fazer login.
