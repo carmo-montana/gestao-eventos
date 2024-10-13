@@ -48,13 +48,13 @@
 
 **Tecnologias**:
 
-**Backend**: Node.js com Express
+**Backend**: `Node.js com Express`
   
-**Banco de Dados**: PostgreSQL ou MySQL
+**Banco de Dados**: `PostgresSQL`
 
-**ORM**: Prisma
+**ORM**: `Prisma`
 
-**Autenticação**: JWT
+**Autenticação**: `JWT`
 
 **Testes**: Jest ou qualquer outro framework de teste
 Esse projeto vai te ajudar a mostrar o uso de Prisma para gerenciar relacionamentos complexos e validar dados em um cenário real. Além disso, pode incluir autenticação e controle de acesso, o que é uma habilidade importante no desenvolvimento de APIs robustas.
