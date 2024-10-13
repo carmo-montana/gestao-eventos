@@ -23,7 +23,7 @@
   
 **Autenticação e Autorização**:
 
-- Implemente autenticação com JWT para garantir que apenas usuários autenticados possam criar eventos ou se inscrever.
+- Implemente autenticação com `JWT` para garantir que apenas usuários autenticados possam criar eventos ou se inscrever.
   
 **Relações com Prisma**:
 
