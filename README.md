@@ -57,3 +57,8 @@
 **Autenticação**: `JWT`
 
 **Testes**: `Jest` 
+
+
+## Autor
+
+**Pedro Oliveira Do Carmo**
