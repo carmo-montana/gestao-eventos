@@ -1,14 +1,11 @@
 import 'dotenv/config'
 import express from 'express'
+import rotas from './rotas'
 
 
 const app = express()
-
 app.use(express.json())
-
-app.get('/', (req, res) => {
-    res.send('Hello Word')
-})
+app.use(rotas)
 
 
 app.listen(process.env.PORT, () => {
