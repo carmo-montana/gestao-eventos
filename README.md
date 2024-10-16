@@ -1,8 +1,7 @@
 # **API de Gestão de Eventos**
 
 **Descrição**:
-### ⚠️ Essa API que permita a gestão de eventos, onde os usuários podem criar e participar de eventos, como conferências, workshops ou meetups. O sistema também gerencia a 
-  inscrição e a lista de participantes.
+### ⚠️ Essa API que permita a gestão de eventos, onde os usuários podem criar e participar de eventos, como conferências, workshops ou meetups. O sistema também gerencia a inscrição e a lista de participantes.
   
  ##
  
